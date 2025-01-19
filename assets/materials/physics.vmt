@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "physics"
+	"$selfillum" 1
+	"$surfaceprop" "glass"
+	"$reflectivity" "[0 0 0]"
+	"$nodecal" "1"
+}

@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "phys_puzzle_complete"
+	"$translucent" 1
+}

@@ -1,0 +1,12 @@
+"UnlitGeneric"
+{
+	"$basetexture" "score_animated"
+	Proxies
+	{
+		ToggleTexture
+		{
+			ToggleTextureVar         $basetexture
+			ToggleTextureFrameNumVar $frame
+		}
+	}
+}
